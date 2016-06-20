@@ -1,7 +1,6 @@
 {
   "name": "timestamp_microservice",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Tagada85/FCC_Timestamp/issues"
   },
-  "homepage": "https://github.com/Tagada85/FCC_Timestamp#readme"
+  "homepage": "https://github.com/Tagada85/FCC_Timestamp#readme",
+  "description": ""
 }
