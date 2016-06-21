@@ -2,6 +2,7 @@
 
 const express = require('express');
 const http = require('http');
+const port = process.env.PORT || 3000;
 
 const app = express();
 
@@ -30,7 +31,7 @@ app.get('*', function(req,res, next){
 	next();
 });
 
-app.listen(3000);
+app.listen(port);
 
 
 function getProperDate(query){
