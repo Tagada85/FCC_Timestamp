@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/Tagada85/FCC_Timestamp/issues"
   },
+  "engines" : {
+    "node": "4.1.2"
+  }
   "homepage": "https://github.com/Tagada85/FCC_Timestamp#readme",
   "description": ""
 }
